@@ -68,8 +68,8 @@ def main():
     best_feature_set_size=0
     
     #load data
-    gene_expression=pd.read_csv("LEV_ML_data/all/lev_gdsc_exp_dat.csv", index_col=False)
-    targets=pd.read_csv("LEV_ML_data/all/lev_gdsc_target_dat.csv", index_col=False)
+    gene_expression=pd.read_csv("lev_gdsc_exp_dat.csv", index_col=False)
+    targets=pd.read_csv("lev_gdsc_target_dat.csv", index_col=False)
     gene_expression=gene_expression.drop(columns=['Unnamed: 0'])
     cell_count_aa=targets[targets.columns[-1]]
     cell_count_aa=np.array(cell_count_aa.astype(float))
