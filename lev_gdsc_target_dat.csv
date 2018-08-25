@@ -1,0 +1,149 @@
+COSMIC_ID,Name,CELL LINE,TISSUE GROUP,TISSUE SUBTYPE,TUMOR TYPE,Cell Count EC50 (microM),Cell Count IC50 (microM),Cell Count GI50 (microM),Cell Count Activity Area
+687983,DMS-114,DMS114,Lung,,SCLC,5.07E+01,5.07E+01,1.89E+01,1.38
+909750,SW1783,SW1783,CNS,Brain,Glioma,8.21E+01,8.21E+01,3.56E+01,0.98
+907065,HT-1197,HT-1197,Bladder,,Carcinoma,> 1.00E+02,> 1.00E+02,9.60E+01,0.53
+687452,5637,5637,Bladder,,Carcinoma,6.47E+01,6.47E+01,5.35E+01,0.95
+1298134,HeLa,HeLa,Female GU,Cervix,Adenocarcinoma,9.12E+01,9.12E+01,7.50E+01,0.78
+905939,HT-29,HT-29,Colorectal,Colon,Adenocarcinoma,> 1.00E+02,> 1.00E+02,8.27E+01,0.83
+908460,NCI-H441,NCIH441,Lung,,NSCLC,> 1.00E+02,> 1.00E+02,3.19E+01,1.18
+905936,HCT-116,HCT-116,Colorectal,Colon,Carcinoma,8.01E+00,8.39E+00,8.10E+00,2.61
+1303896,GA-10,GA-10,Hematopoietic,B-cell,Lymphoma,1.02E+01,1.02E+01,9.28E+00,2.49
+907060,HOS,HOS,Soft Tissue & Bone,Bone,Osteosarcoma,1.14E+01,1.14E+01,9.54E+00,2.5
+909703,RS4-11,RS4;11,Hematopoietic,Lymphoblast,Leukemia,2.54E+01,2.97E+01,1.96E+01,1.51
+909707,Saos-2,SaOS2,Soft Tissue & Bone,Bone,Osteosarcoma,5.45E+01,5.45E+01,3.57E+01,1.12
+907794,LS-411N,LS411N,Colorectal,Cecum,Carcinoma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.44
+906798,639-V,639-V,Bladder,Ureter,Transitional cell carcinoma,5.59E+00,6.97E+00,6.51E+00,2.49
+910079,OE19,OE19,Head and Neck,Esophagus,Carcinoma,> 1.00E+02,> 1.00E+02,9.68E+01,0.76
+906797,647-V,647-V,Bladder,Urothelial,Carcinoma,1.37E+01,1.37E+01,8.64E+00,2.43
+910926,BFTC-905,BFTC-905,Bladder,,Transitional cell carcinoma,1.34E+01,1.34E+01,1.24E+01,2.28
+683667,PFSK-1,PFSK-1,CNS,Brain,Glioma,1.96E+01,1.96E+01,1.39E+01,2.01
+910546,PSN1,PSN-1,Pancreas,,Adenocarcinoma,1.18E+01,1.28E+01,1.16E+01,2.2
+909701,RPMI-6666,RPMI 6666,Hematopoietic,Lymphoblast,Lymphoma,1.72E+01,1.72E+01,1.10E+01,2.09
+909264,RD,RD,Soft Tissue & Bone,Muscle,Sarcoma,2.06E+01,2.06E+01,1.57E+01,1.91
+905964,RPMI-8226,RPMI 8226,Hematopoietic,B-cell,Myeloma,2.51E+01,2.51E+01,1.71E+01,1.73
+1298359,OE21,OE21,Head and Neck,Esophagus,Squamous cell carcinoma,8.55E+01,8.55E+01,7.60E+01,0.74
+924187,KLE,KLE,Female GU,Uterus/endometrium,Adenocarcinoma,2.96E+01,8.54E+01,2.08E+01,1.32
+908127,MES-SA,MES-SA,Soft Tissue & Bone,Uterus,Sarcoma,1.56E+01,1.56E+01,1.37E+01,2.23
+906863,FADU,FaDu,Head and Neck,Pharynx,Squamous cell carcinoma,6.31E+01,6.31E+01,5.64E+01,0.96
+907299,G-401,G-401,Kidney,,Rhabdoid tumor,5.34E+00,5.47E+00,4.83E+00,3.02
+908126,MEG-01,MEG01,Hematopoietic,Megakaryoblast,Leukemia,8.32E+01,8.32E+01,5.85E+01,0.83
+907311,KU812,KU812,Hematopoietic,Basophil,Leukemia,7.03E+01,7.03E+01,4.88E+01,0.88
+907795,LS-513,LS513,Colorectal,Cecum,Carcinoma,1.72E+01,1.72E+01,1.47E+01,2.06
+907792,LS-123,LS123,Colorectal,Colon,Adenocarcinoma,4.38E+01,5.33E+01,2.20E+01,1.3
+907298,G-402,G-402,Kidney,,Renal leiomyoblastoma,6.76E+00,1.01E+01,4.83E+00,2.47
+930297,SiHa,SiHa,Female GU,Cervix,Squamous cell carcinoma,4.12E+01,> 1.00E+02,6.00E+01,0.74
+909709,SCC-9,SCC-9,Head and Neck,Tongue,Squamous cell carcinoma,3.36E+01,3.36E+01,2.63E+01,1.53
+908156,MV-4-11,MV-4-11,Hematopoietic,Macrophage,Leukemia,1.26E+01,1.31E+01,9.20E+00,2.24
+724879,SW900,SW900,Lung,,SCLC,6.76E+01,6.76E+01,3.59E+01,1.06
+908131,MG-63,MG-63,Soft Tissue & Bone,Bone,Osteosarcoma,1.69E+01,1.95E+01,1.42E+01,2.06
+909771,THP-1,Thp1,Hematopoietic,Monocyte,Leukemia,3.55E+01,3.55E+01,2.31E+01,1.53
+910906,ST486,ST486,Hematopoietic,B-cell,Lymphoma,8.16E+00,8.16E+00,6.04E+00,2.71
+908136,MHH-PREB-1,MHH-PREB-1,Hematopoietic,B-lymphoblast,Lymphoma,7.40E+00,7.64E+00,7.08E+00,2.7
+1299064,T-T,TT,Endocrine,Thyroid,Carcinoma,> 1.00E+02,> 1.00E+02,1.43E+01,0.89
+1331038,SU-DHL-8,SU-DHL-8,Hematopoietic,B-cell,Lymphoma,6.04E-01,6.04E-01,5.12E-01,5.0
+909755,SW837,SW837,Colorectal,Rectum,Adenocarcinoma,3.33E+01,3.75E+01,3.18E+01,1.32
+724812,T-24,T24,Bladder,,Transitional cell carcinoma,6.27E+00,6.95E+00,6.60E+00,2.65
+905946,MCF7,MCF7,Breast,,Adenocarcinoma,1.61E+01,3.24E+01,1.90E+01,1.44
+724838,UM-UC-3,UM-UC-3,Bladder,,Transitional cell carcinoma,4.85E+01,4.85E+01,4.60E+01,1.12
+905962,SW620,SW620,Colorectal,Colon,Adenocarcinoma,1.87E+01,1.97E+01,1.49E+01,1.97
+688121,VA-ES-BJ,VA-ES-BJ,Soft Tissue & Bone,,Sarcoma,5.17E+01,5.17E+01,4.24E+01,1.12
+909773,TUR,TUR,Hematopoietic,Histiocyte,Lymphoma,6.49E+00,6.72E+00,5.98E+00,2.79
+909716,SJRH30,SJRH30,Soft Tissue & Bone,Muscle,Sarcoma,9.67E+00,1.14E+01,7.70E+00,2.28
+909756,SW872,SW872,Soft Tissue & Bone,Connective tissue,Sarcoma,3.53E+01,3.53E+01,2.89E+01,1.41
+687586,T98G,T98G,CNS,Brain,Glioma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.14
+907799,MC116,MC116,Hematopoietic,B-cell,Lymphoma,1.47E+01,1.49E+01,1.38E+01,2.14
+1299051,SCaBER,SCaBER,Bladder,,Squamous cell carcinoma,6.04E+01,6.04E+01,5.65E+01,0.85
+687459,TCCSUP,TCCSUP,Bladder,,Transitional cell carcinoma,> 1.00E+02,> 1.00E+02,9.43E+01,0.7
+1331033,SU-DHL-10,SU-DHL-10,Hematopoietic,B-cell,Lymphoma,1.33E+01,1.33E+01,1.20E+01,2.3
+910784,A204,A204,Soft Tissue & Bone,Muscle,Sarcoma,7.85E+00,9.19E+00,7.57E+00,2.41
+906801,BT-20,BT20,Breast,,Carcinoma,> 1.00E+02,> 1.00E+02,6.42E+01,0.79
+906820,CHP-212,CHP-212,CNS,Brain,Neuroblastoma,8.49E+01,8.49E+01,4.91E+01,0.81
+906807,CRO-AP2,CRO-AP2,Hematopoietic,B-cell,Lymphoma,9.97E+00,1.03E+01,8.29E+00,2.43
+906839,DK-MG,DK-MG,CNS,Brain,Glioma,> 1.00E+02,> 1.00E+02,4.94E+01,0.83
+906855,EM-2,EM-2,Hematopoietic,,Leukemia,2.23E+01,2.54E+01,1.86E+01,1.55
+906793,A375,A375,Skin,,Melanoma,9.47E+00,9.47E+00,9.00E+00,2.58
+905951,BT-549,BT-549,Breast,,Ductal carcinoma,1.27E+01,1.54E+01,1.13E+01,1.96
+910915,Capan-2,Capan-2,Pancreas,,Adenocarcinoma,4.97E+01,4.97E+01,4.23E+01,1.18
+910697,A388,A388,Skin,,Head and Neck,6.11E+01,6.11E+01,4.84E+01,1.02
+910781,AN3-CA,AN3 CA,Female GU,Uterus/endometrium,Adenocarcinoma,2.12E+01,2.12E+01,1.16E+01,2.17
+910922,769-P,769-P,Kidney,,Renal cell adenocarcinoma,9.42E+01,4.00E+01,2.86E+01,1.61
+906765,ARH-77,ARH-77,Hematopoietic,B-lymphoblast,Leukemia,1.93E+01,2.03E+01,1.60E+01,1.88
+910710,BV-173,BV-173,Hematopoietic,B-lymphoblast,Leukemia,1.20E+01,1.20E+01,1.01E+01,2.33
+724859,Calu-6,Calu6,Lung,,NSCLC,> 1.00E+02,> 1.00E+02,9.15E+01,0.54
+687505,C-33-A,C-33A,Female GU,Cervix,Carcinoma,1.45E+01,1.45E+01,1.07E+01,2.48
+906833,Daoy,Daoy,CNS,Brain,Medulloblastoma,1.67E+01,1.67E+01,1.30E+01,2.12
+906843,DoTc2-4510,DoTc2 4510,Female GU,Cervix,Carcinoma,1.08E+01,1.46E+01,1.14E+01,1.97
+910925,A431,A431,Skin,,Head and Neck,4.49E+01,4.49E+01,4.28E+01,1.19
+910703,CA46,CA46,Hematopoietic,B-cell,Lymphoma,1.32E+01,1.32E+01,1.10E+01,2.39
+924105,BPH-1,BPH1,Prostate,,Hyperplasia (BPH),7.05E+00,8.33E+00,7.33E+00,2.53
+906837,Detroit562,Detroit 562,Head and Neck,Pharynx,Carcinoma,5.09E+01,5.09E+01,2.84E+01,1.92
+906832,DB,DB,Hematopoietic,B-lymphoblast,Lymphoma,1.76E+01,1.76E+01,1.45E+01,2.1
+910921,A101D,A101D,Skin,,Melanoma,3.48E+01,3.48E+01,2.66E+01,1.46
+687563,A172,A172,CNS,Brain,Glioma,5.58E+01,5.58E+01,4.48E+01,1.06
+684052,A673,A-673,Soft Tissue & Bone,Muscle,Sarcoma,5.76E+01,5.76E+01,4.40E+01,1.14
+910919,BC-1,BC-1,Hematopoietic,B-cell,Lymphoma,1.89E+01,1.89E+01,1.46E+01,2.03
+687596,ChaGo-K-1,ChaGoK1,Lung,Bronchus,NSCLC,8.49E+01,8.49E+01,5.72E+01,0.78
+909743,SUP-T1,SUP-T1,Hematopoietic,T-lymphoblast,Lymphoma,1.56E+01,1.56E+01,1.10E+01,2.21
+909720,SK-LMS-1,SK-LMS-1,Soft Tissue & Bone,Vulva,Sarcoma,2.71E+01,2.71E+01,2.15E+01,1.74
+909754,SW684,SW684,Soft Tissue & Bone,Connective tissue,Sarcoma,2.11E+01,> 1.00E+02,1.71E+01,0.95
+907176,JEG-3,JEG-3,Female GU,Placenta,Choriocarcinoma,3.05E+01,3.05E+01,2.56E+01,1.56
+907064,HT-1080,HT-1080,Soft Tissue & Bone,Connective tissue,Sarcoma,1.17E+01,1.17E+01,1.09E+01,2.4
+924247,SW954,SW954,Female GU,Vulva,Squamous cell carcinoma,2.20E+01,2.25E+01,2.05E+01,1.77
+909732,SK-UT-1,SK-UT-1,Soft Tissue & Bone,Uterus,Sarcoma,1.18E+01,1.18E+01,9.10E+00,2.39
+907066,HT-1376,HT1376,Bladder,,Carcinoma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.48
+724869,HPAF-II,HPAF-II,Pancreas,,Adenocarcinoma,6.58E+01,6.58E+01,5.40E+01,1.06
+907391,J-RT3-T3-5,J-RT3-T3-5,Hematopoietic,T-cell,Leukemia,2.44E+01,2.44E+01,1.84E+01,1.79
+905965,SR,SR,Hematopoietic,Lymphoblast,Lymphoma,1.56E+01,1.61E+01,1.47E+01,2.04
+907042,H4,H4,CNS,Brain,Glioma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.35
+907057,HLE,HLE,Liver,,Hepatoma (non-differentiated),2.52E+01,2.65E+01,2.43E+01,1.58
+909731,SK-PN-DW,SK-PN-DW,Soft Tissue & Bone,Retroperitoneum,Sarcoma,5.74E+01,5.74E+01,4.33E+01,1.1
+753566,J82,J82,Bladder,,Transitional cell carcinoma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.78
+907073,HuTu-80,HuTu 80,Small Intestine,Duodenum,Adenocarcinoma,1.60E+01,1.60E+01,1.42E+01,2.19
+753563,IM-9,IM-9,Hematopoietic,B-lymphoblast,Myeloma,4.10E+01,4.10E+01,3.55E+01,1.28
+1327765,JEKO-1,JeKo-1,Hematopoietic,Lymphoblast,Lymphoma,2.46E+01,2.47E+01,2.09E+01,1.71
+907043,H9,H9,Hematopoietic,T-cell (cutaneous),Lymphoma,4.92E+00,5.40E+00,4.31E+00,2.88
+910851,A427,A427,Lung,,NSCLC,2.36E+01,2.36E+01,1.84E+01,1.82
+906847,EB-3,EB-3,Hematopoietic,B-cell,Lymphoma,3.00E+01,3.00E+01,2.36E+01,1.6
+905948,A498,A498,Kidney,,Carcinoma,8.12E+01,8.12E+01,6.08E+01,1.11
+905952,CCRF-CEM,CCRFCEM,Hematopoietic,T-lymphoblast,Leukemia,3.55E+01,3.55E+01,2.85E+01,1.44
+907069,HuCCT1,HuCCT1,Liver,Bile duct,Carcinoma,2.54E+01,2.75E+01,2.48E+01,1.57
+906794,A253,A-253,Head and Neck,Salivary gland,Epidermoid carcinoma,6.24E+01,6.24E+01,4.17E+01,1.1
+905937,HCT-15,HCT-15,Colorectal,Colon,Adenocarcinoma,3.08E+01,3.21E+01,3.10E+01,1.45
+910916,CAL-27,Cal 27,Head and Neck,Tongue,Squamous cell carcinoma,1.45E+01,1.49E+01,1.32E+01,2.14
+906846,EB2,EB2,Hematopoietic,B-cell,Lymphoma,3.44E+01,3.44E+01,2.45E+01,1.51
+906842,DOHH-2,DOHH-2,Hematopoietic,B-cell,Lymphoma,1.58E+01,1.58E+01,1.44E+01,2.13
+1240150,Hs-683,Hs 683,CNS,Brain,Glioma,5.12E+01,> 1.00E+02,> 1.00E+02,0.39
+907068,HT-3,HT-3,Female GU,Cervix,Retinoblastoma,9.13E+01,9.13E+01,4.85E+01,1.03
+908158,NALM-6,NALM-6,Hematopoietic,B-lymphoblast,Leukemia,3.08E+01,3.08E+01,2.34E+01,1.57
+909737,SNU-423,SNU-423,Liver,,Hepatocellular carcinoma (pleiomorphic),1.48E+01,1.92E+01,1.65E+01,1.72
+908443,NCI-H520,NCI-H520,Lung,,NSCLC,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.38
+908159,NAMALWA,NAMALWA,Hematopoietic,B-cell,Lymphoma,1.25E+01,1.25E+01,1.13E+01,2.34
+905933,OVCAR-3,OVCAR3,Female GU,Ovary,Adenocarcinoma,4.26E+01,4.26E+01,2.41E+01,1.47
+909740,SNU-C2B,SNU-C2B,Colorectal,Colon,Carcinoma,4.54E+01,5.52E+01,3.11E+01,1.14
+909744,SW13,SW-13,Endocrine,Adrenal gland,Small cell carcinoma,6.13E+00,6.13E+00,3.72E+00,3.09
+908459,NCI-H596,NCI-H596,Lung,,NSCLC,5.55E+01,> 1.00E+02,> 1.00E+02,0.38
+909751,SW48,SW48,Colorectal,Colon,Adenocarcinoma,1.35E+01,1.35E+01,9.81E+00,2.28
+1331035,SU-DHL-4,SU-DHL-4,Hematopoietic,B-cell,Lymphoma,9.44E-01,4.77E+00,3.31E+00,1.67
+909759,SW982,SW982,Soft Tissue & Bone,Synovium,Sarcoma,4.37E+01,4.37E+01,3.13E+01,1.29
+906823,CCF-STTG1,CCF-STTG1,CNS,Brain,Glioma,> 1.00E+02,> 1.00E+02,> 1.00E+02,0.39
+905957,Hs-578-T,Hs 578T,Breast,,Carcinoma,4.80E+01,> 1.00E+02,> 1.00E+02,0.47
+909262,Raji,Raji,Hematopoietic,B-cell,Lymphoma,6.91E+01,6.91E+01,6.34E+01,0.88
+724870,MIA-PaCa-2,Mia PaCa-2,Pancreas,,Carcinoma,9.92E+00,1.10E+01,9.38E+00,2.38
+906693,BxPC-3,BxPC-3,Pancreas,,Adenocarcinoma,8.92E+01,8.92E+01,7.80E+01,0.64
+910920,A704,A-704,Kidney,,Adenocarcinoma,> 1.00E+02,> 1.00E+02,6.47E+01,0.51
+906790,AGS,AGS,Stomach,,Adenocarcinoma,3.93E+00,4.21E+00,3.91E+00,3.12
+907278,KG-1,KG-1,Hematopoietic,Macrophage,Leukemia,1.92E+01,2.17E+01,1.35E+01,1.84
+905940,K-562,K562,Hematopoietic,Lymphoblast,Leukemia,4.44E+01,4.44E+01,3.85E+01,1.3
+753604,NCI-H292,NCI-H292,Lung,,NSCLC,4.03E+01,4.03E+01,3.44E+01,1.36
+906835,DBTRG-05MG,DBTRG-05MG,CNS,Brain,Glioma,7.56E+01,7.56E+01,4.14E+01,1.2
+907322,L-428,L-428,Hematopoietic,Polymorph cells,Lymphoma,6.92E+01,6.92E+01,5.31E+01,0.89
+906831,Daudi,Daudi,Hematopoietic,B-lymphoblast,Lymphoma,1.53E+01,1.63E+01,1.42E+01,1.94
+930082,RL95-2,RL95-2,Female GU,Uterus/endometrium,Carcinoma,1.90E+01,2.11E+01,1.04E+01,1.77
+910951,CML-T1,CML-T1,Hematopoietic,T-cell,Leukemia,1.57E+01,1.57E+01,1.25E+01,2.14
+949094,M059J,M059J,CNS,Brain,Glioma,4.88E+01,5.15E+01,3.85E+01,1.08
+906828,CAL-62,CAL-62,Endocrine,Thyroid,Carcinoma,1.21E+01,1.23E+01,1.14E+01,2.31
+909717,SJSA-1,SJSA1,Soft Tissue & Bone,Bone,Osteosarcoma,4.19E+01,4.19E+01,1.84E+01,1.63
+924100,22RV1,22Rv1,Prostate,,Carcinoma,5.56E+01,5.56E+01,4.58E+01,1.09
+1322218,Hs-445,Hs 445,Hematopoietic,Lymphoblast,Lymphoma,2.63E+01,3.06E+01,2.18E+01,1.41
+909776,U-2-OS,U2OS,Soft Tissue & Bone,Bone,Osteosarcoma,7.60E+00,8.58E+00,6.64E+00,2.6
+998184,Jurkat,Jurkat,Hematopoietic,T-cell,Leukemia,2.21E+01,2.21E+01,1.82E+01,1.85
